@@ -1,0 +1,49 @@
+@options
+@packages
+-classpath
+'D:/Applications/temp/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'D:/Users/YanDa HU/Desktop/how-to-become-rich/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Users/YanDa HU/Desktop/how-to-become-rich/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'how-to-become-rich 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Users/YanDa HU/Desktop/how-to-become-rich/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'how-to-become-rich 1.0.0 API'
+com.itranswarp.rich
+D:\Applications\temp\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1656423646789
+D:\Users\YanDa HU\Desktop\how-to-become-rich\src\main\java = 1710164481973
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\allclasses-index.html = 1710165772863
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\allpackages-index.html = 1710165772868
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\constant-values.html = 1710165772806
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\deprecated-list.html = 1710165772831
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\element-list = 1710165772780
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\help-doc.html = 1710165772875
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\index-all.html = 1710165772857
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\index.html = 1710165772870
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\jquery-ui.overrides.css = 1710165772924
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\member-search-index.js = 1710165772853
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\module-search-index.js = 1710165772848
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\overview-tree.html = 1710165772825
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\package-search-index.js = 1710165772850
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\script.js = 1710165772882
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\search.js = 1710165772885
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\stylesheet.css = 1710165772880
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\tag-search-index.js = 1710165772855
+D:\Users\YanDa HU\Desktop\how-to-become-rich\target\apidocs\type-search-index.js = 1710165772852
